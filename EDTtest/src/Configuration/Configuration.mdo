@@ -36,6 +36,7 @@
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
   <enums>Enum.ВидыНоменклатуры</enums>
 </mdclass:Configuration>
