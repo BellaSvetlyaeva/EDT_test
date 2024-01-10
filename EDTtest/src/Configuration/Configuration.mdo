@@ -37,5 +37,6 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
+  <documents>Document.РасходнаяНакладная</documents>
   <enums>Enum.ВидыНоменклатуры</enums>
 </mdclass:Configuration>
